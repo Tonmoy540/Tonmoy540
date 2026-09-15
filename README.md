@@ -21,6 +21,21 @@
 ![Floating Candlesticks](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/candles_dark.gif#gh-dark-mode-only)
 ![Floating Candlesticks](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/candles_light.gif#gh-light-mode-only)
 
+### 🧊 3D PERSPECTIVE CHART — auto-rotating
+
+![3D Chart](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/chart3d_dark.gif#gh-dark-mode-only)
+![3D Chart](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/chart3d_light.gif#gh-light-mode-only)
+
+### 📖 ORDER BOOK DEPTH — live-style ladder
+
+![Order Book](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/orderbook_dark.gif#gh-dark-mode-only)
+![Order Book](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/orderbook_light.gif#gh-light-mode-only)
+
+### ⚖️ RISK GAUGE — disciplined sizing
+
+![Risk Gauge](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/gauge_dark.gif#gh-dark-mode-only)
+![Risk Gauge](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/gauge_light.gif#gh-light-mode-only)
+
 ### 📈 REAL COMMIT ACTIVITY (live data)
 
 ![Activity Graph](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/activity_dark.gif#gh-dark-mode-only)
