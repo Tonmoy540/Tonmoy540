@@ -1,17 +1,22 @@
-<!-- TradingView-style animated GitHub profile — Tonmoy540 -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=26A69A&center=true&vCenter=true&width=600&lines=Tonmoy+%E2%80%94+AI+Trading+Systems;Trading+Chart+Intelligence+%F0%9F%93%88;AI+Tools+%C2%B7+Automation+%E2%9A%99%EF%B8%8F;Decision-Support+Software+%F0%9F%A4%96;Honest+Data+%C2%B7+Clear+Limits+%E2%9C%85)
+![Terminal Banner](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/glow_banner.gif)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=26A69A&center=true&vCenter=true&width=600&lines=Tonmoy+%E2%80%94+AI+Trading+Systems;Trading+Chart+Intelligence+%F0%9F%93%88;AI+Tools+%C2%B7+Automation+%E2%9A%99%EF%B8%8F;Decision-Support+Software+%F0%9F%A4%96;Honest+Data+%C2%B7+Clear+Limits+%E2%9C%85)](https://github.com/Tonmoy540)
+
+![Ticker Tape](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/ticker_tape.gif)
 
 </div>
 
 <br>
 
+### 📊 LIVE MARKET — Contribution Chart
+
+![Floating Candlesticks](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/candles.gif)
+
 <table>
 <tr>
 <td width="50%">
-
-### 📊 TRADING TERMINAL — Stats
 
 ```
 TONMOY/GITHUB        Daily · ∞ learning
@@ -44,7 +49,15 @@ STATUS      OPEN TO WORK ✅
 
 <br>
 
-### 📈 SKILL ORDER BOOK
+<div align="center">
+
+![Status Frame](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/status_frame.gif)
+
+</div>
+
+<br>
+
+### 📒 SKILL ORDER BOOK
 
 | Skill | Position | Confidence | Status |
 |---|---|---|---|
@@ -64,16 +77,16 @@ STATUS      OPEN TO WORK ✅
 
 <br>
 
-### 🧰 TECH STACK BADGES
+### 🧰 TECH STACK — FLOATING BADGES
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![AI](https://img.shields.io/badge/AI%20Tools-2962FF?style=for-the-badge&logo=opencv&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-26A69A?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Tonmoy540)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Tonmoy540)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Tonmoy540)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Tonmoy540)
+[![AI](https://img.shields.io/badge/AI%20Tools-2962FF?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/Tonmoy540)
+[![Automation](https://img.shields.io/badge/Automation-26A69A?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/Tonmoy540)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Tonmoy540)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Tonmoy540)
 
 <br>
 
@@ -94,6 +107,8 @@ STATUS      OPEN TO WORK ✅
 <br>
 
 <div align="center">
+
+![Ticker Tape](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/ticker_tape.gif)
 
 **⚡ VISITOR COUNTER**
 
