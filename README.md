@@ -1,10 +1,16 @@
+<!-- TradingView-style animated GitHub profile — Tonmoy540 — dual theme dark/light -->
 <div align="center">
 
-![Terminal Banner](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/glow_banner.gif)
+![Glow Banner](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/glow_dark.gif#gh-dark-mode-only)
+![Glow Banner](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/glow_light.gif#gh-light-mode-only)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=26A69A&center=true&vCenter=true&width=600&lines=Tonmoy+%E2%80%94+AI+Trading+Systems;Trading+Chart+Intelligence+%F0%9F%93%88;AI+Tools+%C2%B7+Automation+%E2%9A%99%EF%B8%8F;Decision-Support+Software+%F0%9F%A4%96;Honest+Data+%C2%B7+Clear+Limits+%E2%9C%85)](https://github.com/Tonmoy540)
 
-![Ticker Tape](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/ticker_tape.gif)
+![Ticker Tape](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/ticker_dark.gif#gh-dark-mode-only)
+![Ticker Tape](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/ticker_light.gif#gh-light-mode-only)
+
+![Moto](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/moto_dark.gif#gh-dark-mode-only)
+![Moto](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/moto_light.gif#gh-light-mode-only)
 
 </div>
 
@@ -12,7 +18,13 @@
 
 ### 📊 LIVE MARKET — Contribution Chart
 
-![Floating Candlesticks](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/candles.gif)
+![Floating Candlesticks](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/candles_dark.gif#gh-dark-mode-only)
+![Floating Candlesticks](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/candles_light.gif#gh-light-mode-only)
+
+### 📈 REAL COMMIT ACTIVITY (live data)
+
+![Activity Graph](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/activity_dark.gif#gh-dark-mode-only)
+![Activity Graph](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/activity_light.gif#gh-light-mode-only)
 
 <table>
 <tr>
@@ -39,9 +51,10 @@ STATUS      OPEN TO WORK ✅
 
 ### 🏆 TROPHY CASE
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tonmoy540&theme=onedark&no-frame=true&column=4&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Custom Trophies](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/trophies_dark.gif#gh-dark-mode-only)
+![Custom Trophies](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/trophies_light.gif#gh-light-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tonmoy540&theme=dark&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tonmoy540&theme=onedark&no-frame=true&column=4&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </td>
 </tr>
@@ -49,11 +62,34 @@ STATUS      OPEN TO WORK ✅
 
 <br>
 
-<div align="center">
+### 🔢 COUNTER BADGES
 
-![Status Frame](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/status_frame.gif)
+![Commits](https://img.shields.io/github/commit-activity/t/Tonmoy540?label=Commits&color=26a69a&style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20code-WIP-2962ff?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/Tonmoy540/ai-trade-validator-v2?label=Contributors&color=f7a600&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Tonmoy540&color=26a69a&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
+<br>
+
+### 🧑‍🚀 ASTROCAT // MASCOT
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+![Astrocat](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/astrocat.gif)
+
+</td>
+<td width="50%">
+
+> *"Markets reward patience. Code rewards honesty.
+> Build tools that tell the truth about uncertainty."*
+
+— Tonmoy 🇧🇩
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -90,10 +126,11 @@ STATUS      OPEN TO WORK ✅
 
 <br>
 
-### 📊 TOP LANGUAGES
+### 📊 GITHUB STATS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy540&layout=donut&theme=dark&hide_border=true&border_radius=8)](https://github.com/Tonmoy540)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonmoy540&show_icons=true&theme=dark&hide_border=true&border_radius=8&count_private=true)](https://github.com/Tonmoy540)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tonmoy540&theme=dark&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 <br>
 
@@ -108,11 +145,11 @@ STATUS      OPEN TO WORK ✅
 
 <div align="center">
 
-![Ticker Tape](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/ticker_tape.gif)
+![Status Frame](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/status_dark.gif#gh-dark-mode-only)
+![Status Frame](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/status_light.gif#gh-light-mode-only)
 
-**⚡ VISITOR COUNTER**
-
-![Profile views](https://komarev.com/ghpvc/?username=Tonmoy540&color=26a69a&style=for-the-badge&label=PROFILE+VIEWS)
+![Ticker Tape](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/ticker_dark.gif#gh-dark-mode-only)
+![Ticker Tape](https://raw.githubusercontent.com/Tonmoy540/Tonmoy540/main/assets/ticker_light.gif#gh-light-mode-only)
 
 *Building decision-support software with honest data and clear limits.* 📊🤖
 
